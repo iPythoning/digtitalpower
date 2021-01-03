@@ -7,7 +7,6 @@ editable: false
 header:
   caption: ''
   image: ''
-draft: true
 
 ---
 Copyright©️DigitalPower 
