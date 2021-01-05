@@ -5,23 +5,19 @@ role: Agile,DevOps,Desigh Thoughts,GrowthHacking
 organizations:
 - name: ''
   url: ''
-bio: My research interests include distributed robotics, mobile computing and programmable
-  matter.
+bio: My research interests include Agile,DevOps,Desigh Thoughts,GrowthHacking.
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- 敏捷创新
+- 增长黑客
+- 设计思维
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: "2012"
   - course: MEng in Artificial Intelligence
     institution: Massachusetts Institute of Technology
     year: "2009"
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: "2008"
+  - course: 国际经济与贸易
+    institution: 大连工业大学
+    year: "2011"
 social:
 - icon: envelope
   icon_pack: fas
