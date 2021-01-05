@@ -34,7 +34,7 @@ social:
 - icon: linkedin
   icon_pack: fab
   link: https://www.linkedin.com/
-email: ''
+email: fandayong35@gmail.com
 highlight_name: false
 
 ---
