@@ -12,9 +12,9 @@ interests:
 - 设计思维
 education:
   courses:
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: "2009"
+  - course: 管理科学与工程
+    institution: 中国人民大学
+    year: "2021"
   - course: 国际经济与贸易
     institution: 大连工业大学
     year: "2011"
