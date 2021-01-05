@@ -2,7 +2,7 @@
 title: 范大勇：一文读懂信息化、数字化、智能化的本质区别
 view: "1"
 header:
-  caption: ''
+  caption: 信息化,数字化,智能化
   image: ''
 
 ---
