@@ -6,14 +6,17 @@
 [en]
 languageCode = "en-us"
 contentDir = "content/en"  # Uncomment for multi-lingual sites, and move English content into `en` sub-folder.
-
+ title = "AgileFan@DigitalPower"
+[zh.params]
+ description = "Focus on GrowthHacking,Agile&DevOps,Desigh Thoughts,Digital transformation&power"
+[[zh.menu.main]]
 # Uncomment the lines below to configure your website in a second language.
 [zh]
  languageCode = "zh-Hans"
 contentDir = "content/zh"
- title = "Chinese website title..."
+ title = "范大勇@数字生产力"
 [zh.params]
- description = "Site description in Chinese..."
+ description = "聚焦数字化转型落地实效：敏捷&DevOps,增长黑客,设计思维"
 [[zh.menu.main]]
 name = "Wo"
 url = "#about"
